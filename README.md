@@ -8,6 +8,7 @@ This project will create dummy events on a contract which can be used to test `t
 ## Step 1 
 Deploy contract and note down the contract address
 ```
+truffle compile
 truffle migrate
 ```
 
